@@ -1,0 +1,15 @@
+{
+  "name": "jss-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^1.11.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-jss": "^8.6.1"
+  }
+}
